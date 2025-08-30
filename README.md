@@ -23,7 +23,6 @@ Gold Layer – Analytics-Ready Data
 	•	Created curated datasets powering Power BI dashboards and ad-hoc analytics.
 
 **Tools & Technologies**
-
 	•	Pipeline Orchestration: Databricks Jobs, Delta Live Tables (DLT)
 	•	Data Transformation: PySpark, Spark SQL
 	•	Data Modeling: Bronze–Silver–Gold layered design
@@ -32,7 +31,6 @@ Gold Layer – Analytics-Ready Data
 
 
 **Impact**
-
 	•	Reduced complaint reporting lag from weeks to daily refresh.
 	•	Automated ETL eliminated manual effort and improved accuracy.
 	•	Delivered governed, reusable datasets for BI and analytics teams.
